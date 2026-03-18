@@ -44,7 +44,9 @@ Detect and report:
 
 ### 4. Output
 - If the function call order is correct, print:
-       Valid function call sequence.
+
+  Valid function call sequence.
 
 - Otherwise, print:
-       Invalid function call sequence.
+
+   Invalid function call sequence.
